@@ -1,0 +1,4840 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-02-27T21:05:27Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/497219957",
+        "addr:street": "8554",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "צומת כמון",
+        "name:ar": "مفرق كمون",
+        "name:en": "Kamon Junction",
+        "name:he": "צומת כמון",
+        "public_transport": "platform",
+        "ref": "59769",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3362725,
+          32.912568
+        ]
+      },
+      "id": "node/497219957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802982476",
+        "addr:street": "הגליל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "'הגליל / קופת חולים",
+        "name:ar": "هَچليل",
+        "name:en": "HaGalil",
+        "name:he": "קופת חולים (הגליל א')",
+        "public_transport": "platform",
+        "ref": "52606",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3040383,
+          32.9171666
+        ]
+      },
+      "id": "node/1802982476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802982479",
+        "addr:street": "הדס",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "29",
+        "highway": "bus_stop",
+        "name": "הדס/כרכום",
+        "name:ar": "هداس/كركوم",
+        "name:en": "Hadas/Karkum",
+        "name:en1": "Hadas/Karkum",
+        "name:he": "הדס/כרכום",
+        "public_transport": "platform",
+        "ref": "53505",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.289808,
+          32.919339
+        ]
+      },
+      "id": "node/1802982479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802984092",
+        "addr:street": "אביב",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "59",
+        "highway": "bus_stop",
+        "name": "אביב/ביכורים",
+        "name:ar": "أڤيڤ/بيخوريم",
+        "name:en": "Aviv/Bikurim",
+        "name:he": "אביב/ביכורים",
+        "public_transport": "platform",
+        "ref": "53401",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.272291,
+          32.91442
+        ]
+      },
+      "id": "node/1802984092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802984097",
+        "addr:street": "אביב",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "13",
+        "highway": "bus_stop",
+        "name": "אביב/קציר",
+        "name:ar": "أڤيڤ/كتسير",
+        "name:en": "Aviv/Katzir",
+        "name:he": "אביב/קציר",
+        "public_transport": "platform",
+        "ref": "54184",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.270723,
+          32.91637
+        ]
+      },
+      "id": "node/1802984097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802984104",
+        "addr:street": "אביב",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "אביב/נשיאי ישראל",
+        "name:ar": "أڤيڤ/نسيئي يسرائيل",
+        "name:en": "Aviv/Nesi'e Israel",
+        "name:he": "אביב/נשיאי ישראל",
+        "public_transport": "platform",
+        "ref": "53740",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.271928,
+          32.912146
+        ]
+      },
+      "id": "node/1802984104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802988391",
+        "addr:street": "איריס",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "איריס/השושנים",
+        "name:ar": "إيريس/هَشوشنيم",
+        "name:en": "Iris/HaShoshanim",
+        "name:he": "איריס/השושנים",
+        "public_transport": "platform",
+        "ref": "59718",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.301049,
+          32.910456
+        ]
+      },
+      "id": "node/1802988391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802988392",
+        "addr:street": "איריס",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "איריס/נרקיס",
+        "name:ar": "إيريس/نركيس",
+        "name:en": "Iris/Narkis",
+        "name:he": "איריס/נרקיס",
+        "public_transport": "platform",
+        "ref": "59717",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.301188,
+          32.910546
+        ]
+      },
+      "id": "node/1802988392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802991289",
+        "addr:street": "אנפה",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "18",
+        "highway": "bus_stop",
+        "name": "אנפה",
+        "name:ar": "آنفي",
+        "name:en": "Anafa",
+        "name:he": "אנפה",
+        "public_transport": "platform",
+        "ref": "53667",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.285551,
+          32.899241
+        ]
+      },
+      "id": "node/1802991289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802991293",
+        "addr:street": "אנפה",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "6",
+        "highway": "bus_stop",
+        "name": "אנפה/סמטת טווס",
+        "name:ar": "آنفي/سمتات تَڤاس",
+        "name:en": "Anafa/Tavas Lane",
+        "name:he": "אנפה/סמטת טווס",
+        "public_transport": "platform",
+        "ref": "58477",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.286926,
+          32.899476
+        ]
+      },
+      "id": "node/1802991293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802991294",
+        "addr:street": "אנפה",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "38",
+        "highway": "bus_stop",
+        "name": "אנפה/משעול אנפה",
+        "name:ar": "أنفا/مشعول أنفا",
+        "name:en": "Anafa/Aanafa Trail",
+        "name:he": "אנפה/משעול אנפה",
+        "public_transport": "platform",
+        "ref": "53664",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.283597,
+          32.899031
+        ]
+      },
+      "id": "node/1802991294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802991327",
+        "addr:street": "בציר",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "44",
+        "highway": "bus_stop",
+        "name": "בציר/אסיף",
+        "name:ar": "بتسير/أسيف",
+        "name:en": "Batsir/Asif",
+        "name:he": "בציר/אסיף",
+        "public_transport": "platform",
+        "ref": "53406",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.275994,
+          32.913208
+        ]
+      },
+      "id": "node/1802991327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802992990",
+        "addr:street": "בז",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "88",
+        "highway": "bus_stop",
+        "name": "בז ב",
+        "name:ar": "باز ب‘",
+        "name:en": "Baz B",
+        "name:he": "בז ב",
+        "public_transport": "platform",
+        "ref": "58521",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.290258,
+          32.899733
+        ]
+      },
+      "id": "node/1802992990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802992992",
+        "addr:street": "בז",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "40",
+        "highway": "bus_stop",
+        "name": "בז/איה",
+        "name:ar": "باز/آيا",
+        "name:en": "Baz/Aya",
+        "name:he": "בז/איה",
+        "public_transport": "platform",
+        "ref": "53354",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.291914,
+          32.901786
+        ]
+      },
+      "id": "node/1802992992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802992993",
+        "addr:street": "בז",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "121",
+        "highway": "bus_stop",
+        "name": "בז/שחף",
+        "name:ar": "باز/شاحف",
+        "name:en": "Baz/Shahaf",
+        "name:he": "בז/שחף",
+        "public_transport": "platform",
+        "ref": "58520",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.288064,
+          32.900936
+        ]
+      },
+      "id": "node/1802992993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802992996",
+        "addr:street": "בז",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "6",
+        "highway": "bus_stop",
+        "name": "בז/איה",
+        "name:ar": "باز/آيا",
+        "name:en": "Baz/Aya",
+        "name:he": "בז/איה",
+        "public_transport": "platform",
+        "ref": "53428",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.288639,
+          32.902251
+        ]
+      },
+      "id": "node/1802992996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802994397",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ביג כרמיאל/מרכז מסחרי",
+        "name:ar": "بيچ كرميئيل/مركز تجاري",
+        "name:en": "Big Karmi'el/Commercial Center",
+        "name:he": "ביג כרמיאל/מרכז מסחרי",
+        "public_transport": "platform",
+        "ref": "58475",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.323849,
+          32.926649
+        ]
+      },
+      "id": "node/1802994397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802995925",
+        "addr:street": "ביכורים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "36",
+        "highway": "bus_stop",
+        "name": "ביכורים/שביל אלול",
+        "name:ar": "بيخوريم/شڤيل إيلول",
+        "name:en": "Bikurim/Elul Path",
+        "name:he": "ביכורים/שביל אלול",
+        "public_transport": "platform",
+        "ref": "53404",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27468,
+          32.915143
+        ]
+      },
+      "id": "node/1802995925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802995932",
+        "addr:street": "ביכורים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "74",
+        "highway": "bus_stop",
+        "name": "ביכורים/בציר",
+        "name:ar": "بيخوريم/بتسير",
+        "name:en": "Bikurim/Batsir",
+        "name:he": "ביכורים/בציר",
+        "public_transport": "platform",
+        "ref": "53407",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.277336,
+          32.915495
+        ]
+      },
+      "id": "node/1802995932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802997418",
+        "addr:street": "הברושים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "31",
+        "highway": "bus_stop",
+        "name": "הברושים/בית ספר הדקל",
+        "name:ar": "هبروشيم/مدرسة هديكِل",
+        "name:en": "HaBroshim/HaDekel School",
+        "name:he": "הברושים/בית ספר הדקל",
+        "public_transport": "platform",
+        "ref": "58428",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.300057,
+          32.91702
+        ]
+      },
+      "id": "node/1802997418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802997419",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "3",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/בריכה עירונית",
+        "name:ar": "موراد هچاي/ بركة بلدية",
+        "name:en": "Morad HaGay/Municipal Swimming Pool",
+        "name:he": "מורד הגיא/בריכה עירונית",
+        "public_transport": "platform",
+        "ref": "53096",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.304441,
+          32.912677
+        ]
+      },
+      "id": "node/1802997419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802997420",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "1",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/בריכה עירונית",
+        "name:ar": "موراد هچاي/ بركة بلدية",
+        "name:en": "Morad HaGay/Municipal Swimming Pool",
+        "name:he": "מורד הגיא/בריכה עירונית",
+        "public_transport": "platform",
+        "ref": "52275",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.304603,
+          32.912768
+        ]
+      },
+      "id": "node/1802997420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802997537",
+        "addr:street": "הפסגה",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "הפסגה/בית ספר פסגות",
+        "name:ar": "هبِسچا/مدرسة بسچوت",
+        "name:en": "HaPisga/Psagot School",
+        "name:he": "הפסגה/בית ספר פסגות",
+        "public_transport": "platform",
+        "ref": "53095",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.295794,
+          32.917944
+        ]
+      },
+      "id": "node/1802997537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803001771",
+        "addr:street": "בציר",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "41",
+        "highway": "bus_stop",
+        "name": "בציר/שביל ניסן",
+        "name:ar": "بتسير/شڤيل نيسَن",
+        "name:en": "Batsir/Nisan Path",
+        "name:he": "בציר/שביל ניסן",
+        "public_transport": "platform",
+        "ref": "53405",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.277622,
+          32.914155
+        ]
+      },
+      "id": "node/1803001771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803004500",
+        "addr:street": "בז",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "68",
+        "highway": "bus_stop",
+        "name": "בז/גן ציבורי",
+        "name:ar": "باز/حديقة عامة",
+        "name:en": "Baz/Public Garden",
+        "name:he": "בז/גן ציבורי",
+        "public_transport": "platform",
+        "ref": "58528",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.292838,
+          32.899951
+        ]
+      },
+      "id": "node/1803004500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803006845",
+        "addr:street": "דוכיפת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "3",
+        "highway": "bus_stop",
+        "name": "דוכיפת/חוחית",
+        "name:ar": "دوخيفت/حوحيت",
+        "name:en": "Dukhifat/Hohit",
+        "name:en1": "Dukhifat/Hohit",
+        "name:he": "דוכיפת/חוחית",
+        "public_transport": "platform",
+        "ref": "53356",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.287932,
+          32.905905
+        ]
+      },
+      "id": "node/1803006845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803006870",
+        "addr:street": "דוכיפת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "31",
+        "highway": "bus_stop",
+        "name": "דוכיפת/עגור",
+        "name:ar": "دوخيفت/عَچور",
+        "name:en": "Dukhifat/Agur",
+        "name:en1": "Dukhifat/Agur",
+        "name:he": "דוכיפת/עגור",
+        "public_transport": "platform",
+        "ref": "53355",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.289455,
+          32.903369
+        ]
+      },
+      "id": "node/1803006870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803010269",
+        "addr:street": "דרך השלום",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "דרך השלום/שקנאי",
+        "name:ar": "طريق هشلوم/سكناي",
+        "name:en": "Derekh HaShalom/Saknay",
+        "name:en1": "HaShalom Road/Saknay",
+        "name:he": "דרך השלום/שקנאי",
+        "public_transport": "platform",
+        "ref": "58527",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.28205,
+          32.899775
+        ]
+      },
+      "id": "node/1803010269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803010350",
+        "addr:street": "דרך השלום",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "דרך השלום/הפלמ''ח",
+        "name:ar": "طريق هشلوم/هَبلماح",
+        "name:en": "HaShalom Road/HaPalmach",
+        "name:he": "דרך השלום/הפלמ''ח",
+        "public_transport": "platform",
+        "ref": "53571",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.278714,
+          32.906746
+        ]
+      },
+      "id": "node/1803010350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803010351",
+        "addr:street": "דרך השלום",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "183",
+        "highway": "bus_stop",
+        "name": "דרך השלום/מבצע חורב",
+        "name:ar": "هشالوم/ح حورڤ",
+        "name:en": "Derekh HaShalom/Mivtsa Horev",
+        "name:en1": "HaShalom Road/Mivtsa Horev",
+        "name:he": "דרך השלום/מבצע חורב",
+        "public_transport": "platform",
+        "ref": "53566",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2804391,
+          32.9076797
+        ]
+      },
+      "id": "node/1803010351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803010379",
+        "addr:street": "דרך השלום",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "דרך השלום/חטיבת גבעתי",
+        "name:ar": "طريق هشلوم/حتيڤت چلعادي",
+        "name:en": "Derekh HaShalom/Hativat Givati",
+        "name:en1": "HaShalom Road/Hativat Giv'ati",
+        "name:he": "דרך השלום/חטיבת גבעתי",
+        "public_transport": "platform",
+        "ref": "53477",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27957,
+          32.908123
+        ]
+      },
+      "id": "node/1803010379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803010408",
+        "addr:street": "דרך השלום",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "167",
+        "highway": "bus_stop",
+        "name": "דרך השלום/נתיב הל''ה",
+        "name:he": "דרך השלום/נתיב הל''ה",
+        "public_transport": "platform",
+        "ref": "53567",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.278287,
+          32.906681
+        ]
+      },
+      "id": "node/1803010408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803010409",
+        "addr:street": "דרך השלום",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "דרך השלום/נתיב הל''ה",
+        "name:he": "דרך השלום/נתיב הל''ה",
+        "public_transport": "platform",
+        "ref": "53570",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.276718,
+          32.905264
+        ]
+      },
+      "id": "node/1803010409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803010432",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/אורט בראודה",
+        "name:ar": "نسيئي يسرائيل/أورط براودي",
+        "name:en": "Nesi'e Israel/Ort Braude",
+        "name:he": "נשיאי ישראל/אורט בראודה",
+        "public_transport": "platform",
+        "ref": "50591",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.280947,
+          32.910325
+        ]
+      },
+      "id": "node/1803010432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803010438",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/אורט בראודה",
+        "name:ar": "نسيئي يسرائيل/أورط براودي",
+        "name:en": "Nesi'e Israel/Ort Braude",
+        "name:he": "נשיאי ישראל/אורט בראודה",
+        "public_transport": "platform",
+        "ref": "50592",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.280822,
+          32.910615
+        ]
+      },
+      "id": "node/1803010438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803010442",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/אורט בראודה",
+        "name:ar": "نسيئي يسرائيل/أورط براودي",
+        "name:en": "Nesi'e Israel/Ort Braude",
+        "name:he": "נשיאי ישראל/אורט בראודה",
+        "public_transport": "platform",
+        "ref": "59708",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.279593,
+          32.911062
+        ]
+      },
+      "id": "node/1803010442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803016380",
+        "addr:street": "הברושים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "52",
+        "highway": "bus_stop",
+        "name": "הברושים/האורן",
+        "name:ar": "هبروشيم/هَأورن",
+        "name:en": "HaBroshim/HaOren",
+        "name:he": "הברושים/האורן",
+        "public_transport": "platform",
+        "ref": "52758",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.300274,
+          32.91753
+        ]
+      },
+      "id": "node/1803016380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803016405",
+        "addr:street": "הברושים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "32",
+        "highway": "bus_stop",
+        "name": "הברושים/הצפצפות",
+        "name:ar": "هبروشيم/هتسفْتسِفوت",
+        "name:en": "HaBroshim/HaTsaftsefot",
+        "name:he": "הברושים/הצפצפות",
+        "public_transport": "platform",
+        "ref": "52757",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.301043,
+          32.919109
+        ]
+      },
+      "id": "node/1803016405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803018051",
+        "addr:street": "הגליל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "11",
+        "highway": "bus_stop",
+        "name": "הגליל/צה''ל",
+        "name:he": "הגליל/צה''ל",
+        "public_transport": "platform",
+        "ref": "52607",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.303836,
+          32.919428
+        ]
+      },
+      "id": "node/1803018051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803018653",
+        "addr:street": "הדס",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "91",
+        "highway": "bus_stop",
+        "name": "הדס/החורש",
+        "name:ar": "هداس/هَبوعليم",
+        "name:en": "Hadas/HaHoresh",
+        "name:he": "הדס/החורש",
+        "public_transport": "platform",
+        "ref": "53247",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29142,
+          32.916941
+        ]
+      },
+      "id": "node/1803018653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803018654",
+        "addr:street": "הדס",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "17",
+        "highway": "bus_stop",
+        "name": "הדס/מצפה נוף",
+        "name:ar": "هداس/مِتسبي نوف",
+        "name:en": "Hadas/Mitspe Nof",
+        "name:en1": "Hadas/Mitspe Nof",
+        "name:he": "הדס/מצפה נוף",
+        "public_transport": "platform",
+        "ref": "53249",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.289516,
+          32.920762
+        ]
+      },
+      "id": "node/1803018654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803018655",
+        "addr:street": "מצפה נוף",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "58",
+        "highway": "bus_stop",
+        "name": "מצפה נוף/הדס",
+        "name:ar": "مِتسبي نوف/ هداس",
+        "name:en": "Mitspe Nof/Hadas",
+        "name:en1": "Mitspe Nof/Hadas",
+        "name:he": "מצפה נוף/הדס",
+        "public_transport": "platform",
+        "ref": "53507",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.290814,
+          32.921855
+        ]
+      },
+      "id": "node/1803018655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803018656",
+        "addr:street": "הדס",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "43",
+        "highway": "bus_stop",
+        "name": "הדס",
+        "name:ar": "هداس",
+        "name:en": "Hadas",
+        "name:he": "הדס",
+        "public_transport": "platform",
+        "ref": "53248",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.291655,
+          32.918693
+        ]
+      },
+      "id": "node/1803018656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803018778",
+        "addr:street": "הדקל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "הדקל/הארזים",
+        "name:ar": "هديكِل/هأرزيم",
+        "name:en": "HaDekel/HaArazim",
+        "name:he": "הדקל/הארזים",
+        "public_transport": "platform",
+        "ref": "53461",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.297504,
+          32.915406
+        ]
+      },
+      "id": "node/1803018778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803018870",
+        "addr:street": "הדקל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "30",
+        "highway": "bus_stop",
+        "name": "הדקל/חרמון",
+        "name:ar": "هديكِل/ حرمون",
+        "name:en": "HaDekel/Hermon",
+        "name:he": "הדקל/חרמון",
+        "public_transport": "platform",
+        "ref": "53459",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.295727,
+          32.915009
+        ]
+      },
+      "id": "node/1803018870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803018931",
+        "addr:street": "הדקל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "50",
+        "highway": "bus_stop",
+        "name": "הדקל/תבור",
+        "name:ar": "هديكِل/تڤور",
+        "name:en": "HaDekel/Tavor",
+        "name:he": "הדקל/תבור",
+        "public_transport": "platform",
+        "ref": "53460",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.293849,
+          32.914183
+        ]
+      },
+      "id": "node/1803018931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803019461",
+        "addr:street": "ההגנה",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "11",
+        "highway": "bus_stop",
+        "name": "ההגנה/מבצע מכבי",
+        "name:ar": "ههچَنا/ مڤتساع مكابي",
+        "name:en": "HaHagana/Mivtsa Maccabi",
+        "name:he": "ההגנה/מבצע מכבי",
+        "public_transport": "platform",
+        "ref": "53479",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.282967,
+          32.905256
+        ]
+      },
+      "id": "node/1803019461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803019488",
+        "addr:street": "ההגנה",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "2",
+        "highway": "bus_stop",
+        "name": "ההגנה/הפלמ''ח",
+        "name:ar": "هَهچناه/هَبلماح",
+        "name:en": "HaHagana/HaPalmach",
+        "name:he": "ההגנה/הפלמ''ח",
+        "public_transport": "platform",
+        "ref": "59707",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.282276,
+          32.904877
+        ]
+      },
+      "id": "node/1803019488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803019557",
+        "addr:street": "ההגנה",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "69",
+        "highway": "bus_stop",
+        "name": "ההגנה/מבצע עובדה",
+        "name:ar": "ههَچَنا/ مڤتساع عوڤدا",
+        "name:en": "HaHagana/Mivtsa Uvda",
+        "name:en1": "HaHagana/Mivtsa Uvda",
+        "name:he": "ההגנה/מבצע עובדה",
+        "public_transport": "platform",
+        "ref": "59877",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.278762,
+          32.902216
+        ]
+      },
+      "id": "node/1803019557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803021942",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "19",
+        "highway": "bus_stop",
+        "name": "החרושת/החרמש",
+        "name:ar": "هحروشِت/هحرْميش",
+        "name:en": "Haharoshet/HaHermesh",
+        "name:he": "החרושת/החרמש",
+        "public_transport": "platform",
+        "ref": "50778",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.310545,
+          32.921852
+        ]
+      },
+      "id": "node/1803021942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803021945",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "41",
+        "highway": "bus_stop",
+        "name": "החרושת/היוצרים",
+        "name:ar": "هحروشِت/هيوتسريم",
+        "name:en": "HaHaroshet/HaYotsrim",
+        "name:he": "החרושת/היוצרים",
+        "public_transport": "platform",
+        "ref": "50790",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.316072,
+          32.923362
+        ]
+      },
+      "id": "node/1803021945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803021963",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "26",
+        "highway": "bus_stop",
+        "name": "החרושת/המלאכה",
+        "name:ar": "هحروشِت/هملاخا",
+        "name:en": "Haharoshet/Hamelaha",
+        "name:en1": "Haharoshet/Hamelaha",
+        "name:he": "החרושת/המלאכה",
+        "public_transport": "platform",
+        "ref": "50773",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.310818,
+          32.921724
+        ]
+      },
+      "id": "node/1803021963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803021980",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "6",
+        "highway": "bus_stop",
+        "name": "החרושת/העמק",
+        "name:ar": "هحروشِت/هعيمِك",
+        "name:en": "HaHaroshet/HaEmek",
+        "name:he": "החרושת/העמק",
+        "public_transport": "platform",
+        "ref": "50751",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.303601,
+          32.92221
+        ]
+      },
+      "id": "node/1803021980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803021987",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "8",
+        "highway": "bus_stop",
+        "name": "החרושת/העמק",
+        "name:ar": "هحروشِت/هعيمِك",
+        "name:en": "HaHaroshet/HaEmek",
+        "name:he": "החרושת/העמק",
+        "public_transport": "platform",
+        "ref": "52162",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.303975,
+          32.922084
+        ]
+      },
+      "id": "node/1803021987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803021999",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "8",
+        "highway": "bus_stop",
+        "name": "החרושת/העמק",
+        "name:ar": "هحروشِت/هعيمِك",
+        "name:en": "HaHaroshet/HaEmek",
+        "name:he": "החרושת/העמק",
+        "public_transport": "platform",
+        "ref": "50745",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.303773,
+          32.922152
+        ]
+      },
+      "id": "node/1803021999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803022002",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "45",
+        "highway": "bus_stop",
+        "name": "החרושת/העסקים",
+        "name:ar": "هحروشِت/هعسَكيم",
+        "name:en": "HaHaroshet/HaAsakim",
+        "name:he": "החרושת/העסקים",
+        "public_transport": "platform",
+        "ref": "59311",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.320324,
+          32.924555
+        ]
+      },
+      "id": "node/1803022002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803022003",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "60",
+        "highway": "bus_stop",
+        "name": "החרושת/העסקים",
+        "name:ar": "هحروشِت/هعسَكيم",
+        "name:en": "HaHaroshet/HaAsakim",
+        "name:he": "החרושת/העסקים",
+        "public_transport": "platform",
+        "ref": "52165",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.320483,
+          32.924414
+        ]
+      },
+      "id": "node/1803022003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803030804",
+        "addr:street": "העמק",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "העמק/צה''ל",
+        "name:ar": "هعيمِك/تساهل",
+        "name:en": "Ha'Emek/Tsahal",
+        "name:he": "העמק/צה''ל",
+        "public_transport": "platform",
+        "ref": "53714",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.303761,
+          32.92118
+        ]
+      },
+      "id": "node/1803030804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803031090",
+        "addr:street": "הפלמ''ח",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "23",
+        "highway": "bus_stop",
+        "name": "הפלמ''ח/חטיבת גבעתי",
+        "name:he": "הפלמ''ח/חטיבת גבעתי",
+        "public_transport": "platform",
+        "ref": "57807",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.28051,
+          32.905576
+        ]
+      },
+      "id": "node/1803031090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803031101",
+        "addr:street": "הפלמ''ח",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "19",
+        "highway": "bus_stop",
+        "name": "הפלמח/חטיבת גולני",
+        "name:ar": "هبلماح/ حطيڤَت چولاني",
+        "name:en": "HaPalmah/Hativat Golani",
+        "name:he": "הפלמח/חטיבת גולני",
+        "public_transport": "platform",
+        "ref": "59706",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2802,
+          32.906035
+        ]
+      },
+      "id": "node/1803031101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803031135",
+        "addr:street": "הפסגה",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "הפסגה",
+        "name:ar": "هبِسچا",
+        "name:en": "HaPisga",
+        "name:he": "הפסגה",
+        "public_transport": "platform",
+        "ref": "58496",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.298158,
+          32.917996
+        ]
+      },
+      "id": "node/1803031135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803031142",
+        "addr:street": "הפסגה",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "25",
+        "highway": "bus_stop",
+        "name": "הפסגה/משעול מורן",
+        "name:ar": "هبِسچا/مشعول مورَن",
+        "name:en": "HaPisga/Moran Alley",
+        "name:he": "הפסגה/משעול מורן",
+        "public_transport": "platform",
+        "ref": "58497",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299572,
+          32.91967
+        ]
+      },
+      "id": "node/1803031142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803031143",
+        "addr:street": "הפסגה",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "הפסגה/רמים",
+        "name:ar": "هبِسچا/ رَميم",
+        "name:en": "HaPisga/Ramim",
+        "name:he": "הפסגה/רמים",
+        "public_transport": "platform",
+        "ref": "53508",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299369,
+          32.919889
+        ]
+      },
+      "id": "node/1803031143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803031144",
+        "addr:street": "הפסגה",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "הפסגה ככר מגדים",
+        "name:ar": "هبِسچا دوار مِچَديم",
+        "name:en": "HaPisga Megadim Square",
+        "name:he": "הפסגה ככר מגדים",
+        "public_transport": "platform",
+        "ref": "53246",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.295279,
+          32.918162
+        ]
+      },
+      "id": "node/1803031144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803034339",
+        "addr:street": "השושנים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "21",
+        "highway": "bus_stop",
+        "name": "השושנים/חבצלת",
+        "name:ar": "هَشوشنيم/حڤتسيلِت",
+        "name:en": "HaShoshanim/Havatselet",
+        "name:he": "השושנים/חבצלת",
+        "public_transport": "platform",
+        "ref": "53047",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299247,
+          32.909067
+        ]
+      },
+      "id": "node/1803034339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803036326",
+        "addr:street": "זמיר",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "23",
+        "highway": "bus_stop",
+        "name": "זמיר",
+        "name:ar": "زمير",
+        "name:en": "Zamir",
+        "name:he": "זמיר",
+        "public_transport": "platform",
+        "ref": "53665",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.285612,
+          32.898593
+        ]
+      },
+      "id": "node/1803036326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803036327",
+        "addr:street": "זמיר",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "5",
+        "highway": "bus_stop",
+        "name": "זמיר/סמטת טווס",
+        "name:ar": "زمير/سمتات تَڤاس",
+        "name:en": "Zamir/Tavas Lane",
+        "name:he": "זמיר/סמטת טווס",
+        "public_transport": "platform",
+        "ref": "53666",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.28756,
+          32.89904
+        ]
+      },
+      "id": "node/1803036327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803036517",
+        "addr:street": "חבצלת",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "חבצלת/השושנים",
+        "name:ar": "حڤتسيلِت/هَشوشنيم",
+        "name:en": "Havatselet/HaShoshanim",
+        "name:he": "חבצלת/השושנים",
+        "public_transport": "platform",
+        "ref": "59716",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29808,
+          32.90878
+        ]
+      },
+      "id": "node/1803036517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803036524",
+        "addr:street": "חבצלת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "2",
+        "highway": "bus_stop",
+        "name": "חבצלת/השושנים",
+        "name:ar": "حڤتسيلِت/هَشوشنيم",
+        "name:en": "Havatselet/HaShoshanim",
+        "name:he": "חבצלת/השושנים",
+        "public_transport": "platform",
+        "ref": "53046",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29809,
+          32.908904
+        ]
+      },
+      "id": "node/1803036524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803036541",
+        "addr:street": "חבצלת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "24",
+        "highway": "bus_stop",
+        "name": "החבצלת/ המרגנית",
+        "name:ar": "هحڤَتسيلِت/ همرچَنيت",
+        "name:en": "HaHavatselet/HaMarganit",
+        "name:he": "החבצלת/ המרגנית",
+        "public_transport": "platform",
+        "ref": "59876",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299127,
+          32.906365
+        ]
+      },
+      "id": "node/1803036541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803037051",
+        "addr:street": "חוחית",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "8",
+        "highway": "bus_stop",
+        "name": "חוחית/דרך השלום",
+        "name:ar": "حوحيت/طريق هشلوم",
+        "name:en": "Hohit/Derekh HaShalom",
+        "name:en1": "Hohit/HaShalom Road",
+        "name:he": "חוחית/דרך השלום",
+        "public_transport": "platform",
+        "ref": "53357",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.285454,
+          32.906643
+        ]
+      },
+      "id": "node/1803037051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803047305",
+        "addr:street": "784",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "כביש 784/קקל",
+        "name:ar": "شارع 784/ككال",
+        "name:en": "Road 784/KKL",
+        "name:he": "כביש 784/קקל",
+        "public_transport": "platform",
+        "ref": "50590",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2805203,
+          32.921511
+        ]
+      },
+      "id": "node/1803047305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803047679",
+        "addr:street": "שדרות בית הכרם",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "בית הכרם/שדמה",
+        "name:ar": "بيت هكيرِم/ شِدما",
+        "name:en": "Bet HaKerem/Shdema",
+        "name:he": "בית הכרם/שדמה",
+        "public_transport": "platform",
+        "ref": "53606",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.289485,
+          32.913215
+        ]
+      },
+      "id": "node/1803047679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803050686",
+        "addr:street": "מבצע בן עמי",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "מבצע בן עמי/ההגנה",
+        "name:ar": "مڤتساع بن عامي/هَهچناه",
+        "name:en": "Mivtsa Ben Ami/HaHagana",
+        "name:he": "מבצע בן עמי/ההגנה",
+        "public_transport": "platform",
+        "ref": "59705",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.280567,
+          32.904179
+        ]
+      },
+      "id": "node/1803050686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803051677",
+        "addr:street": "צה''ל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "72",
+        "highway": "bus_stop",
+        "name": "צהל/הגפן",
+        "name:ar": "تساهل/ هچيفِن",
+        "name:en": "Tsahal/HaGefen",
+        "name:he": "צהל/הגפן",
+        "public_transport": "platform",
+        "ref": "53097",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.306148,
+          32.915093
+        ]
+      },
+      "id": "node/1803051677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803051922",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "21",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/איריס",
+        "name:ar": "موراد-هچاي/إيريس",
+        "name:en": "Morad-HaGay/Iris",
+        "name:en1": "Morad-HaGay/Iris",
+        "name:he": "מורד הגיא/איריס",
+        "public_transport": "platform",
+        "ref": "59992",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.302589,
+          32.908538
+        ]
+      },
+      "id": "node/1803051922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803051924",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "45",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/הפרחים",
+        "name:ar": "موراد هچاي/هبْرَحيم",
+        "name:en": "Morad HaGay/HaPrahim",
+        "name:en1": "Morad HaGay/HaPrahim",
+        "name:he": "מורד הגיא/הפרחים",
+        "public_transport": "platform",
+        "ref": "53094",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.301411,
+          32.905405
+        ]
+      },
+      "id": "node/1803051924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803051925",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "36",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/הפרחים",
+        "name:ar": "موراد هچاي/هبْرَحيم",
+        "name:en": "Morad HaGay/HaPrahim",
+        "name:en1": "Morad HaGay/HaPrahim",
+        "name:he": "מורד הגיא/הפרחים",
+        "public_transport": "platform",
+        "ref": "52697",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.301681,
+          32.905748
+        ]
+      },
+      "id": "node/1803051925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803051926",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "49",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/הפרחים",
+        "name:ar": "موراد هچاي/هبْرَحيم",
+        "name:en": "Morad HaGay/HaPrahim",
+        "name:en1": "Morad HaGay/HaPrahim",
+        "name:he": "מורד הגיא/הפרחים",
+        "public_transport": "platform",
+        "ref": "52274",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.300942,
+          32.905238
+        ]
+      },
+      "id": "node/1803051926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803051928",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "81",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/חבצלת",
+        "name:ar": "موراد هچاي/حڤتسيلِت",
+        "name:en": "Morad HaGay/Havatselet",
+        "name:en1": "Morad HaGay/Havatselet",
+        "name:he": "מורד הגיא/חבצלת",
+        "public_transport": "platform",
+        "ref": "59990",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.298259,
+          32.905541
+        ]
+      },
+      "id": "node/1803051928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803051929",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "64",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/חבצלת",
+        "name:ar": "موراد هچاي/حڤتسيلِت",
+        "name:en": "Morad HaGay/Havatselet",
+        "name:en1": "Morad HaGay/Havatselet",
+        "name:he": "מורד הגיא/חבצלת",
+        "public_transport": "platform",
+        "ref": "53051",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29833,
+          32.905739
+        ]
+      },
+      "id": "node/1803051929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803051931",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/משעול הדולב",
+        "name:ar": "موراد هچاي/مشعول هَدوليڤ",
+        "name:en": "Morad HaGay/HaDolev Alley",
+        "name:he": "מורד הגיא/משעול הדולב",
+        "public_transport": "platform",
+        "ref": "53012",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2937379,
+          32.9066812
+        ]
+      },
+      "id": "node/1803051931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803051932",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "31",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/משעול חצב",
+        "name:ar": "موراد هچاي/مشعول حتساڤ",
+        "name:en": "Morad HaGay/Hatsav Alley",
+        "name:he": "מורד הגיא/משעול חצב",
+        "public_transport": "platform",
+        "ref": "59991",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.302405,
+          32.907354
+        ]
+      },
+      "id": "node/1803051932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803051939",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "6",
+        "highway": "bus_stop",
+        "name": "מורד הגיא/איריס",
+        "name:ar": "موراد-هچاي/إيريس",
+        "name:en": "Morad-HaGay/Iris",
+        "name:en1": "Morad-HaGay/Iris",
+        "name:he": "מורד הגיא/איריס",
+        "public_transport": "platform",
+        "ref": "53049",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.302428,
+          32.908652
+        ]
+      },
+      "id": "node/1803051939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803053255",
+        "addr:street": "יציאה לכביש",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "784",
+        "highway": "bus_stop",
+        "name": "מחלף גשר מוטה גור",
+        "name:ar": "مفترق چيشِر موتيه چور",
+        "name:en": "Motta Gur Bridge Interchange",
+        "name:he": "מחלף גשר מוטה גור",
+        "public_transport": "platform",
+        "ref": "50578",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.278547,
+          32.912047
+        ]
+      },
+      "id": "node/1803053255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803053641",
+        "addr:street": "יציאה לכביש",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "784",
+        "highway": "bus_stop",
+        "name": "מחלף מוטה גור",
+        "name:ar": "مفترق موتيه چور",
+        "name:en": "Motta Gur Interchange",
+        "name:he": "מחלף מוטה גור",
+        "public_transport": "platform",
+        "ref": "54252",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.277186,
+          32.91099
+        ]
+      },
+      "id": "node/1803053641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803056083",
+        "addr:street": "85",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "צומת מעלה כמון/כביש 85",
+        "name:ar": "مفرق معلي كمون/شارع 85",
+        "name:en": "Ma'ale Kamon Junction/Road 85",
+        "name:he": "צומת מעלה כמון/כביש 85",
+        "public_transport": "platform",
+        "ref": "54150",
+        "shelter": "yes",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.325213,
+          32.929043
+        ]
+      },
+      "id": "node/1803056083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803056976",
+        "addr:street": "85",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "تفرّع نحف",
+        "name:ar": "تفرّع نحف",
+        "name:en": "Nahaf Intersection",
+        "name:he": "מסעף נחף",
+        "public_transport": "platform",
+        "ref": "50817",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.321077,
+          32.928028
+        ]
+      },
+      "id": "node/1803056976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803057750",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "63",
+        "highway": "bus_stop",
+        "name": "החרושת/מעלה כמון",
+        "name:ar": "هحروشِت/معَلي كمون",
+        "name:en": "HaHaroshet/Maale Kamon",
+        "name:he": "החרושת/מעלה כמון",
+        "public_transport": "platform",
+        "ref": "53125",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.324375,
+          32.925669
+        ]
+      },
+      "id": "node/1803057750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803057752",
+        "addr:street": "מעלה כמון",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "מעלה כמון/השיש",
+        "name:ar": "معَلي كمون/ هشايِش",
+        "name:en": "Ma'ale Kamon/HaShayish",
+        "name:he": "מעלה כמון/השיש",
+        "public_transport": "platform",
+        "ref": "59768",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.325459,
+          32.925297
+        ]
+      },
+      "id": "node/1803057752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803058354",
+        "addr:street": "מצפה נוף",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "84",
+        "highway": "bus_stop",
+        "name": "מצפה נוף/ורד",
+        "name:ar": "مِتسبي نوف/ڤيرد",
+        "name:en": "Mitspe Nof/Vered",
+        "name:en1": "Mitspe Nof/Vered",
+        "name:he": "מצפה נוף/ורד",
+        "public_transport": "platform",
+        "ref": "53506",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.290841,
+          32.91929
+        ]
+      },
+      "id": "node/1803058354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803058387",
+        "addr:street": "נשר",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשר א",
+        "name:ar": "نيشر أ‘",
+        "name:en": "Nesher A",
+        "name:he": "נשר א",
+        "public_transport": "platform",
+        "ref": "53648",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.291581,
+          32.898897
+        ]
+      },
+      "id": "node/1803058387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803060894",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "מתחם ביג כרמיאל",
+        "name:ar": "مركز بيچ كرميئيل",
+        "name:en": "Big Center Karmiel",
+        "name:he": "מתחם ביג כרמיאל",
+        "public_transport": "platform",
+        "ref": "52167",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.324068,
+          32.926344
+        ]
+      },
+      "id": "node/1803060894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803064584",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/איריס",
+        "name:ar": "نسيئي يسرائيل/إيريس",
+        "name:en": "Nesi'e Israel/Iris",
+        "name:he": "נשיאי ישראל/איריס",
+        "public_transport": "platform",
+        "ref": "50719",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299742,
+          32.910362
+        ]
+      },
+      "id": "node/1803064584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803064585",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/בירנית",
+        "name:ar": "نسيئي يسرائيل/بيرنيت",
+        "name:en": "Nesi'e Israel/Biranit",
+        "name:he": "נשיאי ישראל/בירנית",
+        "public_transport": "platform",
+        "ref": "53503",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.295599,
+          32.909071
+        ]
+      },
+      "id": "node/1803064585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803064586",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/החבצלת",
+        "name:ar": "نسيئي يسرائيل/هحڤَتسيلِت",
+        "name:en": "Nesi'e Israel/HaHavatselet",
+        "name:he": "נשיאי ישראל/החבצלת",
+        "public_transport": "platform",
+        "ref": "53707",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.297249,
+          32.909239
+        ]
+      },
+      "id": "node/1803064586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803064587",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/חבצלת",
+        "name:ar": "نسيئي يسرائيل/حڤتسيلِت",
+        "name:en": "Nesi'e Israel/Havatselet",
+        "name:he": "נשיאי ישראל/חבצלת",
+        "public_transport": "platform",
+        "ref": "50715",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.298295,
+          32.909663
+        ]
+      },
+      "id": "node/1803064587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803064588",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/יודפת",
+        "name:ar": "نسيئي يسرائيل/يودفات",
+        "name:en": "Nesi'e Israel/Yodfat",
+        "name:he": "נשיאי ישראל/יודפת",
+        "public_transport": "platform",
+        "ref": "52272",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.298973,
+          32.910241
+        ]
+      },
+      "id": "node/1803064588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803064589",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/יקב",
+        "name:ar": "نسيئي يسرائيل/يكيڤ",
+        "name:en": "Nesi'e Israel/Yekev",
+        "name:he": "נשיאי ישראל/יקב",
+        "public_transport": "platform",
+        "ref": "50683",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.288848,
+          32.907975
+        ]
+      },
+      "id": "node/1803064589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803064595",
+        "addr:street": "נשר",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "47",
+        "highway": "bus_stop",
+        "name": "נשר/דוכיפת",
+        "name:ar": "نيشِر/دوخيفت",
+        "name:en": "Nesher/Dukhifat",
+        "name:en1": "Nesher/Dukhifat",
+        "name:he": "נשר/דוכיפת",
+        "public_transport": "platform",
+        "ref": "53650",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.292371,
+          32.902359
+        ]
+      },
+      "id": "node/1803064595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803064597",
+        "addr:street": "נשר",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "83",
+        "highway": "bus_stop",
+        "name": "נשר/פשוש",
+        "name:ar": "نيشِر/بشوش",
+        "name:en": "Nesher/Pashosh",
+        "name:he": "נשר/פשוש",
+        "public_transport": "platform",
+        "ref": "53649",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.294078,
+          32.899789
+        ]
+      },
+      "id": "node/1803064597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803064598",
+        "addr:street": "נשר",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "121",
+        "highway": "bus_stop",
+        "name": "נשר/שחף",
+        "name:ar": "نيشِر/شاحف",
+        "name:en": "Nesher/Shahaf",
+        "name:he": "נשר/שחף",
+        "public_transport": "platform",
+        "ref": "53647",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.288963,
+          32.899569
+        ]
+      },
+      "id": "node/1803064598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803065257",
+        "addr:street": "צה''ל",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "109",
+        "highway": "bus_stop",
+        "name": "צה''ל/ספריה עירונית",
+        "name:he": "צה''ל/ספריה עירונית",
+        "public_transport": "platform",
+        "ref": "53295",
+        "shelter": "yes",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.303039,
+          32.914355
+        ]
+      },
+      "id": "node/1803065257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803065782",
+        "addr:street": "עומר",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "עומר/שביל חשון",
+        "name:ar": "عومر/شڤيل حِشڤان",
+        "name:en": "Omer/Heshvan Path",
+        "name:he": "עומר/שביל חשון",
+        "public_transport": "platform",
+        "ref": "53472",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27387,
+          32.912055
+        ]
+      },
+      "id": "node/1803065782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803067656",
+        "addr:street": "שחף",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "שחף/בז פארק מכוש",
+        "name:ar": "شاحف/باز بارك مخوش",
+        "name:en": "Shahaf/Baz Makosh Park",
+        "name:he": "שחף/בז פארק מכוש",
+        "public_transport": "platform",
+        "ref": "53358",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.288082,
+          32.901381
+        ]
+      },
+      "id": "node/1803067656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803067688",
+        "addr:street": "דרך השלום",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "פארק רבין/דרך השלום",
+        "name:ar": "بارك رابين/طريق هشلوم",
+        "name:en": "Rabin Park/Derekh HaShalom",
+        "name:en1": "Rabin Park/HaShalom Road",
+        "name:he": "פארק רבין/דרך השלום",
+        "public_transport": "platform",
+        "ref": "53611",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.283962,
+          32.906732
+        ]
+      },
+      "id": "node/1803067688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803069106",
+        "addr:street": "צה''ל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "104",
+        "highway": "bus_stop",
+        "name": "צה''ל/הגליל",
+        "name:he": "צה''ל/הגליל",
+        "public_transport": "platform",
+        "ref": "53610",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.304359,
+          32.914038
+        ]
+      },
+      "id": "node/1803069106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803069107",
+        "addr:street": "צה''ל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "24",
+        "highway": "bus_stop",
+        "name": "צה''ל/החרוב",
+        "name:he": "צה''ל/החרוב",
+        "public_transport": "platform",
+        "ref": "53359",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.305766,
+          32.918979
+        ]
+      },
+      "id": "node/1803069107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803072099",
+        "addr:street": "784",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "מחלף כרמיאל מערב",
+        "name:ar": "مفرق كرميئيل غرب",
+        "name:en": "Karmi'el West Interchange",
+        "name:he": "מחלף כרמיאל מערב",
+        "public_transport": "platform",
+        "ref": "50588",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2808001,
+          32.9219465
+        ]
+      },
+      "id": "node/1803072099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803072101",
+        "addr:street": "85",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "מחלף כרמיאל מערב",
+        "name:ar": "مفرق كرميئيل غرب",
+        "name:en": "Karmi'el West Interchange",
+        "name:he": "מחלף כרמיאל מערב",
+        "public_transport": "platform",
+        "ref": "53345",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.281102,
+          32.9230551
+        ]
+      },
+      "id": "node/1803072101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803072103",
+        "addr:street": "85",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "צומת כרמיאל",
+        "name:ar": "مفرق كرميئيل",
+        "name:en": "Karmi'el Junction",
+        "name:he": "צומת כרמיאל",
+        "public_transport": "platform",
+        "ref": "54204",
+        "shelter": "yes",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.301965,
+          32.923958
+        ]
+      },
+      "id": "node/1803072103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803079219",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/פארק אופירה",
+        "name:ar": "نسيئي يسرائيل/بارك أوفيرا",
+        "name:en": "Nesi'e Israel/Ofira Park",
+        "name:he": "נשיאי ישראל/פארק אופירה",
+        "public_transport": "platform",
+        "ref": "50729",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.301922,
+          32.913282
+        ]
+      },
+      "id": "node/1803079219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803079295",
+        "addr:street": "קטיף",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "23",
+        "highway": "bus_stop",
+        "name": "קטיף/שביל טבת",
+        "name:ar": "كَتيف/شڤيل تيڤيت",
+        "name:en": "Katif/Tevet Path",
+        "name:he": "קטיף/שביל טבת",
+        "public_transport": "platform",
+        "ref": "53400",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.273818,
+          32.91359
+        ]
+      },
+      "id": "node/1803079295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803080812",
+        "addr:street": "מורד הגיא",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "98",
+        "highway": "bus_stop",
+        "name": "קניון/מורד הגיא",
+        "name:ar": "كنيون/موراد هچاي",
+        "name:en": "Mall/Morad HaGay",
+        "name:he": "קניון/מורד הגיא",
+        "public_transport": "platform",
+        "ref": "53052",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.293635,
+          32.9074394
+        ]
+      },
+      "id": "node/1803080812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803080821",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/קניון לב כרמיאל",
+        "name:ar": "نسيئي يسرائيل/كنيون ليڤ كرميئيل",
+        "name:en": "Nesi'e Israel/Lev Karmi'el Mall",
+        "name:he": "נשיאי ישראל/קניון לב כרמיאל",
+        "public_transport": "platform",
+        "ref": "50699",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.293946,
+          32.908462
+        ]
+      },
+      "id": "node/1803080821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803080825",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "100",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/ק.ק.ל",
+        "name:ar": "نسيئي يسرائيل/ككال",
+        "name:en": "Nesi'e Israel/KKL",
+        "name:he": "נשיאי ישראל/ק.ק.ל",
+        "public_transport": "platform",
+        "ref": "50702",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.293715,
+          32.908634
+        ]
+      },
+      "id": "node/1803080825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803081135",
+        "addr:street": "קציר",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "50",
+        "highway": "bus_stop",
+        "name": "קציר/השותלים",
+        "name:ar": "كاتسير/ هشوتليم",
+        "name:en": "Katsir/HaShotlim",
+        "name:he": "קציר/השותלים",
+        "public_transport": "platform",
+        "ref": "53402",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27277,
+          32.916969
+        ]
+      },
+      "id": "node/1803081135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803081188",
+        "addr:street": "קציר",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "12",
+        "highway": "bus_stop",
+        "name": "קציר/שביל הזורעים",
+        "name:ar": "كتسير/شڤيل هَزورعيم",
+        "name:en": "Katzir/HaZor'im Path",
+        "name:he": "קציר/שביל הזורעים",
+        "public_transport": "platform",
+        "ref": "58326",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.270587,
+          32.917352
+        ]
+      },
+      "id": "node/1803081188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803081789",
+        "addr:street": "קרן היסוד",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "קרן היסוד/הברושים",
+        "name:ar": "كيرِن هيِسود/هبروشيم",
+        "name:en": "Keren HaYesod/HaBroshim",
+        "name:he": "קרן היסוד/הברושים",
+        "public_transport": "platform",
+        "ref": "52273",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30144,
+          32.921576
+        ]
+      },
+      "id": "node/1803081789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803081790",
+        "addr:street": "קרן היסוד",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "קרן היסוד/הברושים",
+        "name:ar": "كيرِن هيِسود/هبروشيم",
+        "name:en": "Keren HaYesod/HaBroshim",
+        "name:he": "קרן היסוד/הברושים",
+        "public_transport": "platform",
+        "ref": "58498",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.300764,
+          32.921627
+        ]
+      },
+      "id": "node/1803081790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803081842",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/אילנות",
+        "name:ar": "نسيئي يسرائيل/إيلَنوت",
+        "name:en": "Nesi'e Israel/Ilanot",
+        "name:he": "נשיאי ישראל/אילנות",
+        "public_transport": "platform",
+        "ref": "50738",
+        "shelter": "yes",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.302521,
+          32.920665
+        ]
+      },
+      "id": "node/1803081842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803084231",
+        "addr:street": "רמים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "67",
+        "highway": "bus_stop",
+        "name": "רמים/מצפה נוף",
+        "name:ar": "رميم/مِتسبي نوف",
+        "name:en": "Ramim/Mitspe Nof",
+        "name:he": "רמים/מצפה נוף",
+        "public_transport": "platform",
+        "ref": "53092",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.292414,
+          32.919553
+        ]
+      },
+      "id": "node/1803084231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803084234",
+        "addr:street": "רמים",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "רמים/שגיא",
+        "name:ar": "رميم/سچي",
+        "name:en": "Ramim/Sagi",
+        "name:he": "רמים/שגיא",
+        "public_transport": "platform",
+        "ref": "58494",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.293864,
+          32.919148
+        ]
+      },
+      "id": "node/1803084234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803085259",
+        "addr:street": "שביל אלול",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "20",
+        "highway": "bus_stop",
+        "name": "שביל אלול/שביל תמוז",
+        "name:ar": "شڤيل إيلول/شڤيل تموز",
+        "name:en": "Elul Path/Tamuz Path",
+        "name:he": "שביל אלול/שביל תמוז",
+        "public_transport": "platform",
+        "ref": "53403",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.274443,
+          32.916352
+        ]
+      },
+      "id": "node/1803085259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803085336",
+        "addr:street": "שגיא",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "שגיא/הדס",
+        "name:ar": "سچي/ هداس",
+        "name:en": "Sagi/Hadas",
+        "name:he": "שגיא/הדס",
+        "public_transport": "platform",
+        "ref": "57412",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.290684,
+          32.915457
+        ]
+      },
+      "id": "node/1803085336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803085337",
+        "addr:street": "הדקל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "64",
+        "highway": "bus_stop",
+        "name": "הדקל/תבור",
+        "name:ar": "هديكِل/تڤور",
+        "name:en": "HaDekel/Tavor",
+        "name:he": "הדקל/תבור",
+        "public_transport": "platform",
+        "ref": "53275",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.292213,
+          32.915323
+        ]
+      },
+      "id": "node/1803085337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803085338",
+        "addr:street": "שגיא",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "שגיא/קק''ל",
+        "name:he": "שגיא/קק''ל",
+        "public_transport": "platform",
+        "ref": "53504",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.290764,
+          32.91409
+        ]
+      },
+      "id": "node/1803085338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803085912",
+        "addr:street": "שדרות בית הכרם",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשר/שחף",
+        "name:ar": "نيشِر/شاحف",
+        "name:en": "Nesher/Shahaf",
+        "name:he": "נשר/שחף",
+        "public_transport": "platform",
+        "ref": "53609",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.284555,
+          32.90978
+        ]
+      },
+      "id": "node/1803085912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803085913",
+        "addr:street": "שדרות בית הכרם",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "שד. בית הכרם/אשכולות",
+        "name:ar": "جادة بيت هَكيرم/إشكولوت",
+        "name:en": "Bet HaKerem Blvd/Eshkholot",
+        "name:he": "שד. בית הכרם/אשכולות",
+        "public_transport": "platform",
+        "ref": "59989",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.285034,
+          32.910606
+        ]
+      },
+      "id": "node/1803085913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803085914",
+        "addr:street": "שדרות בית הכרם",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "בית הכרם/אשכולות",
+        "name:ar": "بيت هكيرِم/إشكولوت",
+        "name:en": "Bet HaKerem/Eshkolot",
+        "name:en1": "Bet HaKerem/Eshkholot",
+        "name:he": "בית הכרם/אשכולות",
+        "public_transport": "platform",
+        "ref": "54190",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.288595,
+          32.912938
+        ]
+      },
+      "id": "node/1803085914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803085915",
+        "addr:street": "שדרות בית הכרם",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "25",
+        "highway": "bus_stop",
+        "name": "שד. בית הכרם/סמדר",
+        "name:ar": "جادة بيت هَكيرم/سمدار",
+        "name:en": "Bet HaKerem Blvd/Smadar",
+        "name:he": "שד. בית הכרם/סמדר",
+        "public_transport": "platform",
+        "ref": "53608",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.286514,
+          32.911977
+        ]
+      },
+      "id": "node/1803085915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803085920",
+        "addr:street": "שדרות בית הכרם",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "32",
+        "highway": "bus_stop",
+        "name": "שד. בית הכרם/סמדר",
+        "name:ar": "جادة بيت هَكيرم/سمدار",
+        "name:en": "Bet HaKerem Blvd/Smadar",
+        "name:he": "שד. בית הכרם/סמדר",
+        "public_transport": "platform",
+        "ref": "53607",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.287259,
+          32.912241
+        ]
+      },
+      "id": "node/1803085920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803086825",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/כביש 784",
+        "name:ar": "نسيئي يسرائيل/شارع 784",
+        "name:en": "Nesi'e Israel/Road 784",
+        "name:he": "נשיאי ישראל/כביש 784",
+        "public_transport": "platform",
+        "ref": "53325",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.275928,
+          32.912268
+        ]
+      },
+      "id": "node/1803086825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803086838",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/הדקל",
+        "name:ar": "نسيئي يسرائيل/هديكِل",
+        "name:en": "Nesi'e Israel/HaDekel",
+        "name:he": "נשיאי ישראל/הדקל",
+        "public_transport": "platform",
+        "ref": "52159",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.302945,
+          32.916216
+        ]
+      },
+      "id": "node/1803086838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803086843",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "שד. נשיאי ישראל/יקב",
+        "name:ar": "جادة نسيئي يسرائيل/يكيڤ",
+        "name:en": "Nesi'e Israel Blvd/Yekev",
+        "name:he": "שד. נשיאי ישראל/יקב",
+        "public_transport": "platform",
+        "ref": "50673",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2879874,
+          32.9078324
+        ]
+      },
+      "id": "node/1803086843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803086850",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/פארק אופירה",
+        "name:ar": "نسيئي يسرائيل/بارك أوفيرا",
+        "name:en": "Nesi'e Israel/Ofira Park",
+        "name:he": "נשיאי ישראל/פארק אופירה",
+        "public_transport": "platform",
+        "ref": "50731",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.302037,
+          32.914145
+        ]
+      },
+      "id": "node/1803086850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803088779",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "שדרות נשיאי ישראל/אסיף",
+        "name:ar": "جادة نسيئي يسرائيل/أسيف",
+        "name:en": "Sderot Nesie Israel/Asif",
+        "name:en1": "Nesi'e Israel Boulevard/Asif",
+        "name:he": "שדרות נשיאי ישראל/אסיף",
+        "public_transport": "platform",
+        "ref": "53565",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.276427,
+          32.91232
+        ]
+      },
+      "id": "node/1803088779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803088780",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "שדרות נשיאי ישראל/אסיף",
+        "name:ar": "جادة نسيئي يسرائيل/أسيف",
+        "name:en": "Sderot Nesie Israel/Asif",
+        "name:en1": "Nesi'e Israel Boulevard/Asif",
+        "name:he": "שדרות נשיאי ישראל/אסיף",
+        "public_transport": "platform",
+        "ref": "53489",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.273749,
+          32.912637
+        ]
+      },
+      "id": "node/1803088780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803088781",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/דרך השלום",
+        "name:ar": "نسيئي يسرائيل/طريق هشلوم",
+        "name:en": "Nesi'e Israel/HaShalom Road",
+        "name:he": "נשיאי ישראל/דרך השלום",
+        "public_transport": "platform",
+        "ref": "50650",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2854674,
+          32.9085623
+        ]
+      },
+      "id": "node/1803088781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803088784",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "מכללת בראודה/נשיאי ישראל",
+        "name:ar": "كلية براودي/نسيئي يسرائيل",
+        "name:en": "Braude College/Nesi'e Israel",
+        "name:he": "מכללת בראודה/נשיאי ישראל",
+        "public_transport": "platform",
+        "ref": "50617",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.281012,
+          32.910539
+        ]
+      },
+      "id": "node/1803088784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803088785",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/הדקל",
+        "name:ar": "نسيئي يسرائيل/هديكِل",
+        "name:en": "Nesi'e Israel/HaDekel",
+        "name:he": "נשיאי ישראל/הדקל",
+        "public_transport": "platform",
+        "ref": "50739",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.302609,
+          32.91597
+        ]
+      },
+      "id": "node/1803088785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803088786",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/אלה",
+        "name:ar": "نسيئي يسرائيل/إيلا",
+        "name:en": "Nesi'e Israel/Ela",
+        "name:he": "נשיאי ישראל/אלה",
+        "public_transport": "platform",
+        "ref": "50682",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2888572,
+          32.9077196
+        ]
+      },
+      "id": "node/1803088786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803088787",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/יקב",
+        "name:ar": "نسيئي يسرائيل/يكيڤ",
+        "name:en": "Nesi'e Israel/Yekev",
+        "name:he": "נשיאי ישראל/יקב",
+        "public_transport": "platform",
+        "ref": "50670",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.288592,
+          32.907998
+        ]
+      },
+      "id": "node/1803088787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803088788",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/בית הכרם",
+        "name:ar": "نسيئي يسرائيل/بيت هكيرِم",
+        "name:en": "Nesi'e Israel/Bet HaKerem",
+        "name:he": "נשיאי ישראל/בית הכרם",
+        "public_transport": "platform",
+        "ref": "50651",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2852825,
+          32.9088574
+        ]
+      },
+      "id": "node/1803088788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803088789",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "footway": "bus_stop",
+        "highway": "bus_stop",
+        "name": "נשיאי ישראל/מורד הגיא",
+        "name:ar": "نسيئي يسرائيل/موراد هچاي",
+        "name:en": "Nesi'e Israel/Morad HaGay",
+        "name:he": "נשיאי ישראל/מורד הגיא",
+        "public_transport": "platform",
+        "ref": "50695",
+        "source": "israel_gtfs",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.292322,
+          32.908082
+        ]
+      },
+      "id": "node/1803088789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803089172",
+        "addr:street": "שחף",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "32",
+        "highway": "bus_stop",
+        "name": "שחף/נשר",
+        "name:ar": "شاحف/نيشِر",
+        "name:en": "Shahaf/Nesher",
+        "name:he": "שחף/נשר",
+        "public_transport": "platform",
+        "ref": "53612",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.287275,
+          32.904547
+        ]
+      },
+      "id": "node/1803089172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803093911",
+        "addr:street": "דרך השלום",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "99",
+        "highway": "bus_stop",
+        "name": "דרך השלום/חטיבת עציוני",
+        "name:ar": "طريق هشلوم/حتيڤت عتسيوني",
+        "name:en": "Derekh HaShalom/Hativat Etzioni",
+        "name:he": "דרך השלום/חטיבת עציוני",
+        "public_transport": "platform",
+        "ref": "53568",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.275291,
+          32.902932
+        ]
+      },
+      "id": "node/1803093911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066288425",
+        "addr:street": "דרך השלום",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "דרך השלום/נשיאי ישראל",
+        "name:ar": "طريق هشلوم/نسيئي يسرائيل",
+        "name:en": "HaShalom Road/Nesi'e Israel",
+        "name:he": "דרך השלום/נשיאי ישראל",
+        "public_transport": "platform",
+        "ref": "57881",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.279795,
+          32.909999
+        ]
+      },
+      "id": "node/2066288425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5003628488",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "מסוף אגד ביג כרמיאל",
+        "name:ar": "محطة إيچد بيچ كرميئيل",
+        "name:en": "BIG Karmiel Terminal",
+        "name:he": "מסוף אגד ביג כרמיאל",
+        "public_transport": "platform",
+        "ref": "53482",
+        "shelter": "yes",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.324356,
+          32.927475
+        ]
+      },
+      "id": "node/5003628488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210701117",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ת. מרכזית כרמיאל/הורדה",
+        "name:ar": "محطة مركزية كرميئيل/تنزيل",
+        "name:en": "Karmi'el Central Bus Station/Unloading",
+        "name:he": "ת. מרכזית כרמיאל/הורדה",
+        "public_transport": "platform",
+        "ref": "58746",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299141,
+          32.923125
+        ]
+      },
+      "id": "node/5210701117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702043",
+        "addr:street": "הנפח",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "24",
+        "highway": "bus_stop",
+        "name": "הנפח/מעלה כמון",
+        "name:ar": "هنيفَح/معَلي كمون",
+        "name:en": "Hanapah/Ma'ale Kamon",
+        "name:he": "הנפח/מעלה כמון",
+        "public_transport": "platform",
+        "ref": "55849",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.324211,
+          32.922734
+        ]
+      },
+      "id": "node/5210702043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702044",
+        "addr:street": "הנפח",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "6",
+        "highway": "bus_stop",
+        "name": "חניון אגד/הנפח",
+        "name:ar": "موقف إيچد/هنيفَح",
+        "name:en": "Eged Parking/Hanapah",
+        "name:he": "חניון אגד/הנפח",
+        "public_transport": "platform",
+        "ref": "55848",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.318874,
+          32.92105
+        ]
+      },
+      "id": "node/5210702044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702045",
+        "addr:street": "חשמל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "חשמל/החרמש",
+        "name:ar": "حشمال/هحرْميش",
+        "name:en": "Hashmal/HaHermesh",
+        "name:he": "חשמל/החרמש",
+        "public_transport": "platform",
+        "ref": "55847",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.314682,
+          32.924206
+        ]
+      },
+      "id": "node/5210702045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702046",
+        "addr:street": "היוצרים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "18",
+        "highway": "bus_stop",
+        "name": "אלביט/היוצרים",
+        "name:ar": "البيت/هيوتسريم",
+        "name:en": "Elbit/HaYotsrim",
+        "name:he": "אלביט/היוצרים",
+        "public_transport": "platform",
+        "ref": "55846",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.312295,
+          32.924438
+        ]
+      },
+      "id": "node/5210702046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702047",
+        "addr:street": "היוצרים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "4",
+        "highway": "bus_stop",
+        "name": "היוצרים/הכבאי",
+        "name:ar": "هيوتسريم/هكبّاي",
+        "name:en": "HaYotsrim/Hakabay",
+        "name:he": "היוצרים/הכבאי",
+        "public_transport": "platform",
+        "ref": "55845",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.308129,
+          32.92322
+        ]
+      },
+      "id": "node/5210702047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702048",
+        "addr:street": "קרן היסוד",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "קרן היסוד/שדרות נשיאי ישראל",
+        "name:ar": "كيرِن هيِسود/جادة نسيئي يسرائيل",
+        "name:en": "Keren HaYesod/Sderot Nesie Israel",
+        "name:en1": "Keren HaYesod/Nesi'e Israel Boulevard",
+        "name:he": "קרן היסוד/שדרות נשיאי ישראל",
+        "public_transport": "platform",
+        "ref": "55844",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.301623,
+          32.921361
+        ]
+      },
+      "id": "node/5210702048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702049",
+        "addr:street": "הברושים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "13",
+        "highway": "bus_stop",
+        "name": "הברושים/הצפצפות",
+        "name:ar": "هبروشيم/هتسفْتسِفوت",
+        "name:en": "HaBroshim/HaTsaftsefot",
+        "name:he": "הברושים/הצפצפות",
+        "public_transport": "platform",
+        "ref": "55843",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.301476,
+          32.919769
+        ]
+      },
+      "id": "node/5210702049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702050",
+        "addr:street": "הדקל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "30",
+        "highway": "bus_stop",
+        "name": "הדקל/חרמון",
+        "name:ar": "هديكِل/ حرمون",
+        "name:en": "HaDekel/Hermon",
+        "name:he": "הדקל/חרמון",
+        "public_transport": "platform",
+        "ref": "55842",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.295813,
+          32.914952
+        ]
+      },
+      "id": "node/5210702050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702051",
+        "addr:street": "הדקל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "50",
+        "highway": "bus_stop",
+        "name": "הדקל/תבור",
+        "name:ar": "هديكِل/تڤور",
+        "name:en": "HaDekel/Tavor",
+        "name:he": "הדקל/תבור",
+        "public_transport": "platform",
+        "ref": "55841",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.293681,
+          32.914095
+        ]
+      },
+      "id": "node/5210702051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702052",
+        "addr:street": "הדקל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "41",
+        "highway": "bus_stop",
+        "name": "הדקל/מירון",
+        "name:ar": "هديكِل/ميرون",
+        "name:en": "HaDekel/Meron",
+        "name:he": "הדקל/מירון",
+        "public_transport": "platform",
+        "ref": "55840",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29212,
+          32.915099
+        ]
+      },
+      "id": "node/5210702052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702053",
+        "addr:street": "אשכולות",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "אשכולות/יקב",
+        "name:ar": "إشكولوت/يكيڤ",
+        "name:en": "Eshkholot/Yekev",
+        "name:he": "אשכולות/יקב",
+        "public_transport": "platform",
+        "ref": "55839",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.288799,
+          32.908855
+        ]
+      },
+      "id": "node/5210702053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702054",
+        "addr:street": "שדרות קק''ל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "100",
+        "highway": "bus_stop",
+        "name": "עיריית כרמיאל/שדרות קק''ל",
+        "name:he": "עיריית כרמיאל/שדרות קק''ל",
+        "public_transport": "platform",
+        "ref": "55838",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.292305,
+          32.910817
+        ]
+      },
+      "id": "node/5210702054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702055",
+        "addr:street": "שגיא",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "שגיא/רמים",
+        "name:ar": "سچي/ رَميم",
+        "name:en": "Sagi/Ramim",
+        "name:he": "שגיא/רמים",
+        "public_transport": "platform",
+        "ref": "55837",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.293539,
+          32.917609
+        ]
+      },
+      "id": "node/5210702055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702056",
+        "addr:street": "היוצרים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "3",
+        "highway": "bus_stop",
+        "name": "היוצרים/הכבאי",
+        "name:ar": "هيوتسريم/هكبّاي",
+        "name:en": "HaYotsrim/Hakabay",
+        "name:he": "היוצרים/הכבאי",
+        "public_transport": "platform",
+        "ref": "55836",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.307898,
+          32.923231
+        ]
+      },
+      "id": "node/5210702056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702057",
+        "addr:street": "היוצרים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "19",
+        "highway": "bus_stop",
+        "name": "אלביט/היוצרים",
+        "name:ar": "البيت/هيوتسريم",
+        "name:en": "Elbit/HaYotsrim",
+        "name:he": "אלביט/היוצרים",
+        "public_transport": "platform",
+        "ref": "55835",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.31197,
+          32.924442
+        ]
+      },
+      "id": "node/5210702057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702058",
+        "addr:street": "חשמל",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "חשמל/החרמש",
+        "name:ar": "حشمال/هحرْميش",
+        "name:en": "Hashmal/HaHermesh",
+        "name:he": "חשמל/החרמש",
+        "public_transport": "platform",
+        "ref": "55834",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3147126,
+          32.9244616
+        ]
+      },
+      "id": "node/5210702058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702059",
+        "addr:street": "הנפח",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "5",
+        "highway": "bus_stop",
+        "name": "הנפח/היזם",
+        "name:ar": "هنيفَح/هيزّام",
+        "name:en": "Hanapah/HaYazam",
+        "name:he": "הנפח/היזם",
+        "public_transport": "platform",
+        "ref": "55833",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.318789,
+          32.921141
+        ]
+      },
+      "id": "node/5210702059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702060",
+        "addr:street": "הנפח",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "24",
+        "highway": "bus_stop",
+        "name": "הנפח/מעלה כמון",
+        "name:ar": "هنيفَح/معَلي كمون",
+        "name:en": "Hanapah/Ma'ale Kamon",
+        "name:he": "הנפח/מעלה כמון",
+        "public_transport": "platform",
+        "ref": "55832",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.324035,
+          32.922781
+        ]
+      },
+      "id": "node/5210702060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702061",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "צור/מעלה כמון",
+        "name:ar": "تسور/معَلي كمون",
+        "name:en": "Tsur/Ma'ale Kamon",
+        "name:he": "צור/מעלה כמון",
+        "public_transport": "platform",
+        "ref": "55831",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.329596,
+          32.921723
+        ]
+      },
+      "id": "node/5210702061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702062",
+        "addr:street": "צור",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "מפעל שטראוס/צור",
+        "name:ar": "مصنع شتراوس/ تسور",
+        "name:en": "Strauss Plant/Tsur",
+        "name:he": "מפעל שטראוס/צור",
+        "public_transport": "platform",
+        "ref": "55830",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.334581,
+          32.922707
+        ]
+      },
+      "id": "node/5210702062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702063",
+        "addr:street": "צה''ל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "35",
+        "highway": "bus_stop",
+        "name": "צהל/החרוב",
+        "name:ar": "تساهل/هحروڤ",
+        "name:en": "Tsahal/HaHaruv",
+        "name:he": "צהל/החרוב",
+        "public_transport": "platform",
+        "ref": "55829",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.305855,
+          32.919108
+        ]
+      },
+      "id": "node/5210702063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702064",
+        "addr:street": "צה''ל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "99",
+        "highway": "bus_stop",
+        "name": "צהל/הגפן",
+        "name:ar": "تساهل/ هچيفِن",
+        "name:en": "Tsahal/HaGefen",
+        "name:he": "צהל/הגפן",
+        "public_transport": "platform",
+        "ref": "55828",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.306254,
+          32.915098
+        ]
+      },
+      "id": "node/5210702064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210702075",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ת. מרכזית כרמיאל/רציפים",
+        "name:ar": "محطة مركزية كرميئيل/أرصفة",
+        "name:en": "Karmi'el Central Bus Station/Platforms",
+        "name:he": "ת. מרכזית כרמיאל/רציפים",
+        "public_transport": "platform",
+        "ref": "55815",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299805,
+          32.922952
+        ]
+      },
+      "id": "node/5210702075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210704405",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ת. רכבת כרמיאל",
+        "name:ar": "محطة قطار كرميئيل",
+        "name:en": "Karmiel Rail Station",
+        "name:he": "ת. רכבת כרמיאל",
+        "public_transport": "platform",
+        "ref": "55139",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2984172,
+          32.9237852
+        ]
+      },
+      "id": "node/5210704405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210704406",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ת. רכבת כרמיאל/רציפים",
+        "name:ar": "محطة قطار كرميئل/أرصفة",
+        "name:en": "Karmiel Rail Station/Platforms",
+        "name:he": "ת. רכבת כרמיאל/רציפים",
+        "public_transport": "platform",
+        "ref": "55137",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2976978,
+          32.9238127
+        ]
+      },
+      "id": "node/5210704406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210710933",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "11",
+        "highway": "bus_stop",
+        "name": "החרושת/העמק",
+        "name:ar": "هحروشِت/هعيمِك",
+        "name:en": "HaHaroshet/HaEmek",
+        "name:he": "החרושת/העמק",
+        "public_transport": "platform",
+        "ref": "52145",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.304844,
+          32.92199
+        ]
+      },
+      "id": "node/5210710933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210712188",
+        "addr:street": "הברושים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "35",
+        "highway": "bus_stop",
+        "name": "הברושים/הדקל",
+        "name:ar": "هبروشيم/هديكِل",
+        "name:en": "HaBroshim/HaDekel",
+        "name:he": "הברושים/הדקל",
+        "public_transport": "platform",
+        "ref": "50897",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29814,
+          32.915391
+        ]
+      },
+      "id": "node/5210712188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210712192",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "68",
+        "highway": "bus_stop",
+        "name": "החרושת/בית עלמין",
+        "name:ar": "هحروشِت/مقبرة",
+        "name:en": "Haharoshet/Cemetery",
+        "name:he": "החרושת/בית עלמין",
+        "public_transport": "platform",
+        "ref": "50836",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.324786,
+          32.925622
+        ]
+      },
+      "id": "node/5210712192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210712204",
+        "addr:street": "החרושת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "54",
+        "highway": "bus_stop",
+        "name": "החרושת/חשמל",
+        "name:ar": "هحروشت/حشمال",
+        "name:en": "HaHaroshet/Hashmal",
+        "name:he": "החרושת/חשמל",
+        "public_transport": "platform",
+        "ref": "50787",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.316338,
+          32.923251
+        ]
+      },
+      "id": "node/5210712204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071806904",
+        "addr:street": "רמים",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "רמים/מצפה נוף",
+        "name:ar": "رميم/مِتسبي نوف",
+        "name:en": "Ramim/Mitspe Nof",
+        "name:he": "רמים/מצפה נוף",
+        "public_transport": "platform",
+        "ref": "59719",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29743,
+          32.919479
+        ]
+      },
+      "id": "node/8071806904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071806905",
+        "addr:street": "חבצלת",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "20",
+        "highway": "bus_stop",
+        "name": "חבצלת/ערבה",
+        "name:ar": "حڤتسيلِت/عَرَڤا",
+        "name:en": "Havatselet/Arava",
+        "name:he": "חבצלת/ערבה",
+        "public_transport": "platform",
+        "ref": "59715",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2990588,
+          32.9066372
+        ]
+      },
+      "id": "node/8071806905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071806907",
+        "addr:street": "הדקל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "6",
+        "highway": "bus_stop",
+        "name": "הדקל/הרימון",
+        "name:ar": "هديكِل/هريمون",
+        "name:en": "HaDekel/HaRimon",
+        "name:he": "הדקל/הרימון",
+        "public_transport": "platform",
+        "ref": "59550",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.300804,
+          32.915716
+        ]
+      },
+      "id": "node/8071806907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071806908",
+        "addr:street": "הדקל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "12",
+        "highway": "bus_stop",
+        "name": "הדקל/הברושים",
+        "name:ar": "هديكِل/هبروشيم",
+        "name:en": "HaDekel/HaBroshim",
+        "name:he": "הדקל/הברושים",
+        "public_transport": "platform",
+        "ref": "59549",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299833,
+          32.915336
+        ]
+      },
+      "id": "node/8071806908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071806913",
+        "addr:street": "הגליל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "26",
+        "highway": "bus_stop",
+        "name": "הגליל/בית ספר מוריה",
+        "name:ar": "هچليل/مدرسة موريا",
+        "name:en": "HaGalil/Moriya School",
+        "name:he": "הגליל/בית ספר מוריה",
+        "public_transport": "platform",
+        "ref": "57922",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30371,
+          32.915322
+        ]
+      },
+      "id": "node/8071806913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071806914",
+        "addr:street": "אשכולות",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "180",
+        "highway": "bus_stop",
+        "name": "אשכולות /זמורה",
+        "name:ar": "إشكولوت/زمورا",
+        "name:en": "Eshkolot/Zmora",
+        "name:en1": "Eshkholot/Zmora",
+        "name:he": "אשכולות /זמורה",
+        "public_transport": "platform",
+        "ref": "57901",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.290023,
+          32.912016
+        ]
+      },
+      "id": "node/8071806914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071806915",
+        "addr:street": "חטיבת יפתח",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "16",
+        "highway": "bus_stop",
+        "name": "חטיבת יפתח/הפלמ''ח",
+        "name:he": "חטיבת יפתח/הפלמ''ח",
+        "public_transport": "platform",
+        "ref": "57900",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.279122,
+          32.906247
+        ]
+      },
+      "id": "node/8071806915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071832617",
+        "addr:street": "הגליל",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "57",
+        "highway": "bus_stop",
+        "name": "הגליל/בית ספר מוריה",
+        "name:ar": "هچليل/مدرسة موريا",
+        "name:en": "HaGalil/Moriya School",
+        "name:he": "הגליל/בית ספר מוריה",
+        "public_transport": "platform",
+        "ref": "57840",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.303818,
+          32.915315
+        ]
+      },
+      "id": "node/8071832617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071832636",
+        "addr:street": "דרך השלום",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "דרך השלום/ההגנה",
+        "name:ar": "طريق هشلوم/هَهچناه",
+        "name:en": "Derekh HaShalom/HaHagana",
+        "name:en1": "HaShalom Road/HaHagana",
+        "name:he": "דרך השלום/ההגנה",
+        "public_transport": "platform",
+        "ref": "56060",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.286086,
+          32.904448
+        ]
+      },
+      "id": "node/8071832636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071832639",
+        "addr:street": "נחליאלי",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "נחליאלי/אנקור",
+        "name:ar": "نحليئيلي/أنكور",
+        "name:en": "Nahli'eli/Ancor",
+        "name:he": "נחליאלי/אנקור",
+        "public_transport": "platform",
+        "ref": "54549",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.294048,
+          32.902362
+        ]
+      },
+      "id": "node/8071832639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071832640",
+        "addr:street": "חוחית",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "44",
+        "highway": "bus_stop",
+        "name": "חוחית/מרווה",
+        "name:ar": "خوخيت/مرڤاه",
+        "name:en": "Hohit/Marva",
+        "name:he": "חוחית/מרווה",
+        "public_transport": "platform",
+        "ref": "54548",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.290276,
+          32.90603
+        ]
+      },
+      "id": "node/8071832640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071832641",
+        "addr:street": "חוחית",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "71",
+        "highway": "bus_stop",
+        "name": "חוחית/נץ",
+        "name:ar": "خوخيت/نتس",
+        "name:en": "Hohit/Nets",
+        "name:en1": "Hohit/Nets",
+        "name:he": "חוחית/נץ",
+        "public_transport": "platform",
+        "ref": "54547",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.292588,
+          32.905338
+        ]
+      },
+      "id": "node/8071832641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071832642",
+        "addr:street": "חוחית",
+        "bus": "yes",
+        "footway": "bus_stop",
+        "highway": "bus_stop",
+        "name": "חוחית/עפרוני",
+        "name:ar": "خوخيت/عفروني",
+        "name:en": "Hohit/Efroni",
+        "name:he": "חוחית/עפרוני",
+        "public_transport": "platform",
+        "ref": "54546",
+        "source": "israel_gtfs",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.291234,
+          32.906
+        ]
+      },
+      "id": "node/8071832642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071832643",
+        "addr:street": "חוחית",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "חוחית/חרצית",
+        "name:ar": "خوخيت/حرتسيت",
+        "name:en": "Hohit/Hartsit",
+        "name:he": "חוחית/חרצית",
+        "public_transport": "platform",
+        "ref": "54545",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.294642,
+          32.90448
+        ]
+      },
+      "id": "node/8071832643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071832644",
+        "addr:street": "רמים",
+        "bus": "yes",
+        "gtfs:addr:housenumber": "31",
+        "highway": "bus_stop",
+        "name": "רמים/אשור",
+        "name:ar": "رميم/أشور",
+        "name:en": "Ramim/Ashur",
+        "name:he": "רמים/אשור",
+        "public_transport": "platform",
+        "ref": "54544",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.295282,
+          32.920498
+        ]
+      },
+      "id": "node/8071832644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071832650",
+        "addr:street": "שגיא",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "בי''ס מגדים",
+        "name:he": "בי''ס מגדים",
+        "public_transport": "platform",
+        "ref": "53462",
+        "source": "israel_gtfs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.292728,
+          32.916276
+        ]
+      },
+      "id": "node/8071832650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071832666",
+        "addr:street": "שדרות נשיאי ישראל",
+        "bus": "yes",
+        "footway": "bus_stop",
+        "highway": "bus_stop",
+        "name": "שד. נשיאי ישראל/אלה",
+        "name:ar": "جادة نسيئي يسرائيل/إيلا",
+        "name:en": "Nesi'e Israel Blvd/Ela",
+        "name:he": "שד. נשיאי ישראל/אלה",
+        "public_transport": "platform",
+        "ref": "50693",
+        "source": "israel_gtfs",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.291529,
+          32.908127
+        ]
+      },
+      "id": "node/8071832666"
+    }
+  ]
+}
