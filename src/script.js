@@ -151,43 +151,37 @@ document.getElementById("search-button-end").addEventListener("click", () => {
 
 function setResultList(parsedResult) {
   resultList.innerHTML = "";
-  // Instead of removing all markers immediately, we'll handle this upon selection
-  // currentMarkers.forEach(marker => map.removeLayer(marker));
-  // currentMarkers.length = 0;
 
-  parsedResult.forEach((result, index) => {
+  parsedResult.forEach((result) => {
     const li = document.createElement("li");
     li.className =
       "rounded-lg mt-2 p-4 shadow hover:bg-gray-700 cursor-pointer bg-gray-800 text-white";
 
     li.innerHTML = `<h5 class="text-lg font-semibold">${result.display_name}</h5>
-                        <p class="text-sm text-gray-400">Latitude: ${result.lat}, Longitude: ${result.lon}</p>`;
+                    <p class="text-sm text-gray-400">Latitude: ${result.lat}, Longitude: ${result.lon}</p>`;
 
     const position = new L.LatLng(result.lat, result.lon);
     const marker = L.marker(position, { icon: defaultIcon }).addTo(map);
 
-    // Temporarily store markers in an array to manage them
-    currentMarkers.push(marker);
-
     li.addEventListener("mouseenter", () => {
       marker.setIcon(hoverIcon);
+      map.flyTo(position, 18); // Fly to the marker's position on mouseenter
     });
     li.addEventListener("mouseleave", () => {
       marker.setIcon(defaultIcon);
     });
 
     li.addEventListener("click", () => {
-      // Clear all markers except the selected one
-      currentMarkers.forEach((m, idx) => {
-        if (idx !== index) {
-          // Check if it's not the selected marker
-          map.removeLayer(m);
-        }
-      });
-      currentMarkers = [marker]; // Keep only the selected marker in the array
+      // Instead of clearing all non-selected markers, simply adjust what happens on click
+      marker.setIcon(defaultIcon); // Optionally reset the icon or apply a selected state
 
-      resultList.innerHTML = ""; // Clear the results list
-      map.flyTo(position, 18); // Optionally, zoom in on the selected marker
+      // Check if the marker is already in the array to avoid duplicates
+      if (!currentMarkers.includes(marker)) {
+        currentMarkers.push(marker); // Add the clicked marker to the array
+      }
+
+      resultList.innerHTML = ""; // Optionally clear the results list or adjust as needed
+      // Keep the map focused on the selected marker
     });
 
     resultList.appendChild(li);
