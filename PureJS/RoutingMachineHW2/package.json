@@ -1,0 +1,36 @@
+{
+  "name": "Pilot",
+  "version": "1.0.0",
+  "description": "Welcome to our project - Omri Hasaot - Public Transportation Planner.",
+  "main": "./dist/TripgoRouting.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css",
+    "prepublish": "node bin/build.js"
+  },
+  "keywords": [
+    "map",
+    "leaflet",
+    "routing",
+    "trip",
+    "door-to-door",
+    "planning"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SecretPasta/Omri_Hasaot.git"
+  },
+  "author": "Bebra Club",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
+    "javascript-obfuscator": "^0.12.5"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.1",
+    "shelljs": "^0.7.8",
+    "polyline-encoded": "0.0.8",
+    "leaflet": "^1.2.0",
+    "jquery": "^3.2.1"
+  }
+}
